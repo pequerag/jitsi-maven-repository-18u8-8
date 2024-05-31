@@ -3,8 +3,8 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-pager-view</artifactId>
   <versioning>
-    <latest>6.2.0-jitsi-16940371</latest>
-    <release>6.2.0-jitsi-16940371</release>
+    <latest>6.2.0-jitsi-17088233</latest>
+    <release>6.2.0-jitsi-17088233</release>
     <versions>
       <version>6.2.0-jitsi-16872661</version>
       <version>6.2.0-jitsi-16931614</version>
@@ -12,7 +12,8 @@
       <version>6.2.0-jitsi-16939509</version>
       <version>6.2.0-jitsi-16939860</version>
       <version>6.2.0-jitsi-16940371</version>
+      <version>6.2.0-jitsi-17088233</version>
     </versions>
-    <lastUpdated>20240514153520</lastUpdated>
+    <lastUpdated>20240531181911</lastUpdated>
   </versioning>
 </metadata>
