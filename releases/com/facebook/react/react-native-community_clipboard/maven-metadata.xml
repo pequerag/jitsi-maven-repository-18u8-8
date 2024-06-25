@@ -3,8 +3,8 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-community_clipboard</artifactId>
   <versioning>
-    <latest>1.5.1-jitsi-17294181</latest>
-    <release>1.5.1-jitsi-17294181</release>
+    <latest>1.5.1-jitsi-17304026</latest>
+    <release>1.5.1-jitsi-17304026</release>
     <versions>
       <version>1.5.1-jitsi-16872661</version>
       <version>1.5.1-jitsi-16931614</version>
@@ -14,7 +14,8 @@
       <version>1.5.1-jitsi-16940371</version>
       <version>1.5.1-jitsi-17088233</version>
       <version>1.5.1-jitsi-17294181</version>
+      <version>1.5.1-jitsi-17304026</version>
     </versions>
-    <lastUpdated>20240624142345</lastUpdated>
+    <lastUpdated>20240625174433</lastUpdated>
   </versioning>
 </metadata>
